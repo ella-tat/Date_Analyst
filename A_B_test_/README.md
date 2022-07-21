@@ -9,7 +9,6 @@
 - pandas
 - math
 - numpy
-@@ -17,21 +20,4 @@
 - seaborn
 - plotly
 
